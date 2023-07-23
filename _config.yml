@@ -25,11 +25,6 @@ navbar-links:
     - Discord: "https://discord.gg/CcdYBCTXHW"
     - YouTube: "https://www.youtube.com/@nifgaming8442"
     - Reddit: "https://www.reddit.com/r/NifLisesi/"
-  GamehunterKaan: 
-    - Youtube: "https://www.youtube.com/@GamehunterKaan"
-    - Instagram: "https://www.instagram.com/kaan_gultekin0/"
-    - Twitter: "https://twitter.com/kaangultekin01"
-    - GitHub: "https://github.com/GamehunterKaan"
 
 ################
 # --- Logo --- #
@@ -101,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "www.nifgaming.com"
+url-pretty: "www.nifgaming.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
